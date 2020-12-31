@@ -1,0 +1,27 @@
+.footer {
+  display: inline-flex;
+  padding: 2rem;
+  margin: auto;
+  background-color: black;
+  border-top: solid 1px #8bcb00;
+  color: white;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  display: inline-block;
+  margin: auto;
+  padding: 0.5rem;
+  width: 100% auto;
+  font-size: 1.3rem;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.container a {
+  padding: 2rem 2rem 1rem 2rem;
+  margin: 1rem auto;
+}

@@ -1,0 +1,17 @@
+.leaflet-container {
+  height: 35vw;
+  width: 60vw;
+}
+.ubicacion {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: black;
+}
+h1 {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
